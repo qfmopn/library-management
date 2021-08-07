@@ -1,0 +1,27 @@
+How to run this Project
+
+1. Download and Unzip file on your local system copy library.
+2.Install any php server e.g-wamp,xampp,etc...
+3. Put library folder inside root directory
+    e.g htdocs for xampp
+        www for wamp       
+
+Database Configuration
+
+Open phpmyadmin
+Create Database library
+Import database library.sql (available inside zip package)
+
+About project
+This project library management system has two sets of users namely admin and user  (Team 9|CSE-B)
+
+For User
+
+Open Your browser type this in search bar “http://localhost/library”
+Login Details for user: test@test.com/test
+
+For Admin Panel
+
+Open Your browser type this in search bar “http://localhost/library/admin”
+Login Details for admin : Username:admin  Password: admin
+                                    
